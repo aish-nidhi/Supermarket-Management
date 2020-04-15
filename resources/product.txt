@@ -1,0 +1,4 @@
+Product Id!Product Name!Price!Product Expiry Date!Product Mfg Date!Category Id!Stock Available!
+P1!Pen!20!29/10/2019!26/08/2018!S123!50!
+D23!Doritos!99!26/09/2019!10/09/2018!Fd43!70!
+M21!Maggi!12!12/10/2019!02/08/2018!Fd43!48!
